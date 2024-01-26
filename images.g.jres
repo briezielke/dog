@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA4AAAAAAAAADg7g4AAAAAAAAADgAAAAAAAODuDgAAAAAA7u4OAAAOAODu7g4AAO7u7u7uAAAA4O/u7u4OAADg7u7u7gAAAODv7u7uAAAA7u7u7u4OAAAO4O4AAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "puppy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
